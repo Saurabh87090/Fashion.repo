@@ -15,8 +15,8 @@ const Header = () => {
         <div className="relative px-4 mx-auto sm:px-6 lg:px-8">
             <nav className="flex items-center justify-between h-16 lg:h-20">
                 <div className="flex-shrink-0">
-                    <a href="#" title="" className="flex">
-                        <img className="w-auto h-8 lg:h-10" src="https://cdn.rareblocks.xyz/collection/celebration/images/logo-alt.svg" alt="" />
+                    <a href="#" title="flex" className="flex">
+                        <img className="w-auto h-8 lg:h-10" src="https://cdn.rareblocks.xyz/collection/celebration/images/logo-alt.svg" alt="images" />
                     </a>
                 </div>
 
@@ -27,13 +27,13 @@ const Header = () => {
                 </button>
 
                 <div className="hidden lg:flex lg:items-center lg:space-x-10">
-                    <a href="#" title="" className="text-base font-medium text-white"> Features </a>
+                    <a href="#" title="feature" className="text-base font-medium text-white"> Features </a>
 
-                    <a href="#" title="" className="text-base font-medium text-white"> Solutions </a>
+                    <a href="#" title="solution" className="text-base font-medium text-white"> Solutions </a>
 
-                    <a href="#" title="" className="text-base font-medium text-white"> Resources </a>
+                    <a href="#" title="resource" className="text-base font-medium text-white"> Resources </a>
 
-                    <a href="#" title="" className="text-base font-medium text-white"> Pricing </a>
+                    <a href="#" title="pricing" className="text-base font-medium text-white"> Pricing </a>
                 </div>
 
                 <a href="#" title="" className="items-center justify-center hidden px-6 py-3 text-base font-semibold text-black transition-all duration-200 bg-yellow-400 border border-transparent rounded-full lg:inline-flex hover:bg-yellow-500 focus:bg-yellow-500" role="button"> Join Now </a>
