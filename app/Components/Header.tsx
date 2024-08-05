@@ -36,7 +36,7 @@ const Header = () => {
                     <a href="#" title="pricing" className="text-base font-medium text-white"> Pricing </a>
                 </div>
 
-                <a href="#" title="" className="items-center justify-center hidden px-6 py-3 text-base font-semibold text-black transition-all duration-200 bg-yellow-400 border border-transparent rounded-full lg:inline-flex hover:bg-yellow-500 focus:bg-yellow-500" role="button"> Join Now </a>
+                <a href="#" title="join now" className="items-center justify-center hidden px-6 py-3 text-base font-semibold text-black transition-all duration-200 bg-yellow-400 border border-transparent rounded-full lg:inline-flex hover:bg-yellow-500 focus:bg-yellow-500" role="button"> Join Now </a>
             </nav>
         </div>
     </div>
@@ -51,17 +51,17 @@ const Header = () => {
 
         <div className="flex flex-col flex-grow h-full">
             <nav className="flex flex-col flex-1 mt-10 space-y-2">
-                <a href="#" title="" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Features </a>
+                <a href="#" title="features" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Features </a>
 
-                <a href="#" title="" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Solutions </a>
+                <a href="#" title="solutions" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Solutions </a>
 
-                <a href="#" title="" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Resources </a>
+                <a href="#" title="Resources" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Resources </a>
 
-                <a href="#" title="" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Pricing </a>
+                <a href="#" title="pricing" className="flex w-full py-2 font-medium text-white transition-all duration-200 focus:text-opacity-70"> Pricing </a>
             </nav>
 
             <div className="flex flex-col items-start">
-                <a href="#" title="" className="inline-flex items-center justify-center w-auto px-6 py-3 mt-auto text-base font-semibold text-black transition-all duration-200 bg-yellow-400 border border-transparent rounded-full hover:bg-yellow-500 focus:bg-yellow-500" role="button"> Join Now </a>
+                <a href="#" title="join now" className="inline-flex items-center justify-center w-auto px-6 py-3 mt-auto text-base font-semibold text-black transition-all duration-200 bg-yellow-400 border border-transparent rounded-full hover:bg-yellow-500 focus:bg-yellow-500" role="button"> Join Now </a>
             </div>
         </div>
     </nav>
