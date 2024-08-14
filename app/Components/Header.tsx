@@ -2,14 +2,9 @@ import React from 'react'
 import bg from "Home.svg";
 const Header = () => {
   return (
-
     <div>
       <header>
-  
     <div className="relative bg-black">
-      
-       
-
         <div className="absolute inset-0 bg-black/30"></div>
 
         <div className="relative px-4 mx-auto sm:px-6 lg:px-8">
